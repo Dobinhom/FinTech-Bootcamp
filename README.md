@@ -1,5 +1,6 @@
 # FinTech-Bootcamp
-I'm Eyob - I have a backgrounf in Finance
+I'm Eyob - I have a background in Finance
+
 Needed more quant exposure
 
 

@@ -1,4 +1,5 @@
 # FinTech-Bootcamp
-This is just a test
+I'm Eyob - I have a backgrounf in Finance
+Needed more quant exposure
 
-Mt first resME.md file
+
